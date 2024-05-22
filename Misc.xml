@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BGPScanner_Name>Better ground-penetrating scanner</BGPScanner_Name>
+  <BGPScanner_Multiplier>Multiplicateur de temps de sortie choisi</BGPScanner_Multiplier>
+  <BGPScanner_DivideByCommonality>Diviser le temps de recherche par la rareté de l'objet</BGPScanner_DivideByCommonality>
+  <BGPScanner_DivideByCommonalityDesc>Plus l'objet est commun, plus il sera rapide à trouver. Cela ne s'applique que lors du choix d'une sortie spécifique. Il est appliqué après le multiplicateur de sortie choisi.</BGPScanner_DivideByCommonalityDesc>
+  <BGPScanner_AutoEff>Efficacité de balayage en mode automatique</BGPScanner_AutoEff>
+  <BGPScanner_AllowUnderRoof>Permettre de construire le scanner de pénétration au sol sous un toit</BGPScanner_AllowUnderRoof>
+  <BGPScanner_Auto>Activer le mode automatique</BGPScanner_Auto>
+  <BGPScanner_AutoDsc>Lorsqu'aucun pion n'utilise le scanner de pénétration au sol, il continuera à balayer à l'efficacité spécifiée ci-dessous.</BGPScanner_AutoDsc>
+  <BGPScanner_AutoFind>Le mode automatique a trouvé une veine de {0} enfouie en utilisant le scanner de pénétration au sol !</BGPScanner_AutoFind>
+</LanguageData>
